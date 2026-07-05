@@ -1,2 +1,13 @@
+# requirements.txt
+
 streamlit
 pandas
+pyarrow
+fastparquet
+openpyxl
+numpy
+matplotlib
+seaborn
+plotly
+dateparser
+fpdf2
